@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_today"
+            android:title="@string/drawer_nav_today"
+            android:icon="@drawable/ic_launcher_background" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/drawer_nav_contacts" />
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/drawer_nav_tasks" />
+        <item
+            android:id="@+id/nav_objects"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/drawer_nav_objects" />
+    </group>
+</menu>

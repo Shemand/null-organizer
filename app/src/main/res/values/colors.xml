@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar_text_color">#FFFFFF</color>
+
+
+    <color name="object_1">#3F51B5</color>
+    <color name="object_2">#673AB7</color>
+    <color name="object_3">#9C27B0</color>
+    <color name="object_4">#2196F3</color>
+
+</resources>

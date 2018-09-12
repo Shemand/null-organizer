@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">null</string>
+    <string name="navigation_drawer_open">open drawer text</string>
+    <string name="navigation_drawer_close">close drawer text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Business</string>
+
+    <string name="business_id">ID</string>
+    <string name="business_title">Заголовок</string>
+    <string name="business_important">Важность</string>
+    <string name="business_note">Заметки</string>
+    <string name="business_created">Дата создания</string>
+    <string name="business_started">Дата начала</string>
+    <string name="business_due">Дата окончания</string>
+    <string name="business_ended">Реальная дата окончания</string>
+    <string name="business_actual">Актуальность</string>
+    <string name="business_created_by_object">Создано из объекта с названием</string>
+    <string name="business_created_by_contact">Создано из контакта с названием</string>
+    <string name="business_created_by_task">Создано из задачи с названием</string>
+
+    <string name="contact_id">ID</string>
+    <string name="contact_first_name">Имя</string>
+    <string name="contact_second_name">Фамилия</string>
+    <string name="contact_places_list">Места</string>
+    <string name="contact_internet_list">Адреса электронной почты</string>
+    <string name="contact_phones_list">Телефонные номера</string>
+
+    <string name="addr_common_name">Запись о адресе</string>
+    <string name="addr_id">ID</string>
+    <string name="addr_name">Название места</string>
+    <string name="addr_city">Город</string>
+    <string name="addr_street">Улица</string>
+    <string name="addr_house_number">Номер дома</string>
+
+    <string name="internet_common_name">Запись о email</string>
+    <string name="internet_id">ID</string>
+    <string name="internet_email">Адрес электронной почты</string>
+
+    <string name="phone_common_name">Запись о телефоне</string>
+    <string name="phone_id">ID</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="phone_type">Тип номер</string>
+
+    <string name="task_id">ID</string>
+    <string name="task_title">Заголовок</string>
+    <string name="task_important">Важность</string>
+    <string name="task_note">Заметки</string>
+    <string name="task_created">Дата создания</string>
+    <string name="task_started">Дата начала</string>
+    <string name="task_due">Дата окончания</string>
+    <string name="task_ended">Реальная дата окончания</string>
+    <string name="task_actual">Актуальность</string>
+    <string name="task_contacts">Закрепленные контакты</string>
+    <string name="task_created_by_object">Создано из объекта с названием</string>
+    <string name="task_created_by_contact">Создано из контакта с названием</string>
+    <string name="task_parent_task">Задача старшего порядка</string>
+
+    <string name="object_name">Название объекта</string>
+
+    <string name="dialog_title">Заголовок</string>
+    <string name="dialog_leave_message">Вы уверены что хотите покинуть этот экран?</string>
+    <string name="dialog_button_save">Сохр.</string>
+    <string name="dialog_button_accept">Подтв.</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="dialog_button_clear">Очистить</string>
+    <string name="dialog_accept_title">Вы уверены?</string>
+    <string name="dialog_accept_message">Что-то не так...</string>
+
+
+    <string name="standart_title_business_add">Создание дела</string>
+    <string name="standart_title_business_info">Информация о деле</string>
+    <string name="standart_title_business_list">Список дел</string>
+
+    <string name="standart_title_contact_add">Создание контакта</string>
+    <string name="standart_title_contact_info">Информация о контакте</string>
+    <string name="standart_title_contact_list">Список контактов</string>
+
+    <string name="standart_title_object_list">Список объектов</string>
+    <string name="standart_title_object_contacts_list">Контакты объекта</string>
+    <string name="standart_title_object_contacts_add">Добавление контакта</string>
+
+    <string name="standart_title_place_list">Список адресов</string>
+    <string name="standart_title_internet_list">Список email</string>
+    <string name="standart_title_phone_list">Список номеров</string>
+
+    <string name="standart_title_task_add">Создание задачи</string>
+    <string name="standart_title_task_contacts_add">Создание контакты для задачи</string>
+    <string name="standart_title_task_contacts_list">Список контактов задачи</string>
+    <string name="standart_title_task_info">Информация о задаче</string>
+    <string name="standart_title_task_list">Список задач</string>
+
+    <string name="drawer_nav_today">Дела на сегодня</string>
+    <string name="drawer_nav_contacts">Список всех контактов</string>
+    <string name="drawer_nav_tasks">Задачи</string>
+    <string name="drawer_nav_objects">Объекты</string>
+
+    <string name="toast_contact_add">Контакт создан</string>
+    <string name="toast_contact_del">Контакт удален</string>
+    <string name="toast_task_add">Задача создана</string>
+    <string name="toast_task_del">Задача удалена</string>
+    <string name="toast_business_add">Дело создано</string>
+    <string name="toast_business_del">Дело удалено</string>
+    <string name="toast_object_add">Объект создан</string>
+    <string name="toast_object_edited">Объект изменен</string>
+    <string name="toast_object_del">Объект удален</string>
+    <string name="toast_place_add">Адрес создан</string>
+    <string name="toast_place_del">Адрес удален</string>
+    <string name="toast_internets_add">Электронный адрес создан</string>
+    <string name="toast_internets_del">Электронный адрес удален</string>
+    <string name="toast_phone_add">Телефонный номер записан</string>
+    <string name="toast_phone_del">Телефонный номер удален</string>
+    <string name="toast_standart_edited">Свойство изменено</string>
+    <string name="toast_standart_clear">Свойство очищено</string>
+
+    <string name="context_place_title">Выбран адрес: </string>
+    <string name="context_phone_title">Выбран телефон: </string>
+    <string name="context_internets_title">Выбран email: </string>
+    <string name="context_task_title">Выбрана задача: </string>
+    <string name="context_business_title">Выбрано дело: </string>
+    <string name="context_contact_title">Выбран контакт: </string>
+    <string name="context_object_title">Выбран объект: </string>
+
+    <string-array name="phone_groups">
+        <item>Домашнаяя группа</item>
+        <item>Рабочая группа</item>
+    </string-array>
+
+    <string-array name="importants">
+        <item>Важно и срочно</item>
+        <item>Важно, но не срочно</item>
+        <item>Не важно, но срочно</item>
+        <item>Не важно, не срочно</item>
+    </string-array>
+
+    <string-array name="weeks_day">
+        <item>Воскресение</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+
+    <string-array name="month_names">
+        <item>Январь</item>
+        <item>Феврать</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+</resources>
